@@ -1,0 +1,40 @@
+https://www.quora.com/How-fast-do-software-developers-burn-out-in-their-career
+
+
+
+Terry Smith
+==============
+Story time!
+
+If you take pains to push back against irrational or impossible schedules, have a good relationship with your coworkers, 
+have a comfortable life outside of work, enjoy what you're doing and have success with it, you may have a long career without burnout. 
+I have worked with several old, happy developers.
+I burned out hard on a job early in my career, maybe 3 years after graduating. 
+The company doesn’t exist anymore, and the managers who created the situation are apparently no longer managing. 
+I was too green to know you can and should say 'no' sometimes. 
+I was on a high-profile, high-dollar project that kept losing people (to burnout- big warning sign) and not replacing them, 
+but management wouldn't change any of the schedule to account for fewer developers. The job paid overtime, 
+so I guess the theory was we were getting paid well for our long hours, so we should be happy. 
+A team of 7 full-time devs got whittled down to 3. 
+I hardly remember a thing about the last 3 months- it was nonstop bug creation and bug fixing, never saw daylight, ate poorly and slept worse, 
+all the while realizing management had screwed themselves promising deadlines to a much more powerful entity and were relying on us to pull a multi-month hail-mary to make it. 
+I cracked under the pressure and left. I hear the program finally got cancelled shortly after. 
+Fortunately I had earned lots of overtime, because I couldn't work (or even think straight) for 6 months after that ordeal.
+
+However, after a 6 month break in which I traveled, slept, read for pleasure and not much else, I started interviewing again. 
+I got a really fun job with some great people, and exercised a newfound respect for taking care of myself. 
+I've been kicking ass and taking names ever since (15ish years and counting)
+
+Make sure you take charge of the work you do. You own it, and it reflects on you. 
+Demand the time and resources to do it well, then do it well. The success that follows will keep you sane and happy.
+
+
+
+https://www.quora.com/How-fast-do-software-developers-burn-out-in-their-career
+
+
+Mark Davis
+==============
+Most do not burn out. Instead, they are promoted to roles that involve less and less coding. 
+For those of us that remain in or around coding, the formula for keeping it together is simple. 
+Take care of oneself. Maintain the body. Feed the mind. Build strong and lasting emotional ties. Play, eat, sleep, and have fun.

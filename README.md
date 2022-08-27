@@ -7,6 +7,8 @@
 https://relevant.software/blog/signs-of-software-engineer-burnout/
 
 
+https://www.quora.com/How-fast-do-software-developers-burn-out-in-their-career
+
 
 
 ##  Healthy Software Developer
